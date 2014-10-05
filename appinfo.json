@@ -1,0 +1,40 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "nicoplv.auto@gmail.com",
+    "longName": "Shifumi",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/play.png",
+                "name": "IMAGE_PLAY",
+                "type": "png"
+            },
+            {
+                "file": "images/pierre.png",
+                "name": "IMAGE_PIERRE",
+                "type": "png"
+            },
+            {
+                "file": "images/feuille.png",
+                "name": "IMAGE_FEUILLE",
+                "type": "png"
+            },
+            {
+                "file": "images/ciseaux.png",
+                "name": "IMAGE_CISEAUX",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Shifumi",
+    "uuid": "004103f9-65e9-4df2-a2ad-bab07fa728f7",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
